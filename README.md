@@ -57,7 +57,7 @@ This project can be used as a beginner-friendly login page template or as a base
 - Add form validation using JavaScript
 - Connect the form to a backend authentication system
 - Replace the logo placeholder with a brand logo
-- Add social login buttons
+- Add social login button
 - Improve accessibility with required fields and ARIA labels
 
 ## License
